@@ -1,7 +1,7 @@
 <?php 
 /*
 Plugin Name: PrestaShop Order Ids
-Description: Numery zamówienia na wzór Prestashop, idntyfikator zamówienia skladaja się z losowego ciągu liter.
+Description: Zmienia numerowanie zamówień na styl Prestashop - każde zamówienie ma identyfikator składający się z 9 losowych liter.
 Version: 1.0
 Author: Sebastian Bort
 */
